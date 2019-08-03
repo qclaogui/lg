@@ -21,7 +21,7 @@ func main() {
 
 	lg.APPLog.Info("Happy Goding!")
 }
-
+// Output: {"level":"info","ts":1564834577.710078,"msg":"Happy Goding!","info":{"project":"demo-project","hostname":"qclaogui.local"}}
 ```
 
 ## Versioning
@@ -31,4 +31,4 @@ Using [SemVer](http://semver.org/) for versioning. For the versions available, s
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
