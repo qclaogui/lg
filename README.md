@@ -1,4 +1,12 @@
-# lg
+<div align="center">
+  <h1>lg</h1>
+</div>
+<p align="center">
+<a href="https://travis-ci.org/qclaogui/lg"><img src="https://travis-ci.org/qclaogui/lg.svg?branch=master"></a>
+<a href="https://goreportcard.com/report/github.com/qclaogui/lg"><img src="https://goreportcard.com/badge/github.com/qclaogui/lg?v=1" /></a>
+<a href="https://godoc.org/github.com/qclaogui/lg"><img src="https://godoc.org/github.com/qclaogui/lg?status.svg"></a>
+<a href="https://github.com/qclaogui/lg/blob/master/LICENSE"><img src="https://img.shields.io/github/license/qclaogui/lg.svg" alt="License"></a>
+</p>
 
 Project logger packaging for [github.com/uber-go/zap](https://github.com/uber-go/zap)
 
@@ -6,7 +14,17 @@ Project logger packaging for [github.com/uber-go/zap](https://github.com/uber-go
 
 Suitable for project log in the container
 
-```
+
+### Installation
+
+`go get -u github.com/qclaogui/lg`
+
+
+### Usage [Run in Playground](https://play.golang.org/p/_q67O0B0Dd5)
+
+
+
+```go
 package main
 
 import (
@@ -31,4 +49,4 @@ Using [SemVer](http://semver.org/) for versioning. For the versions available, s
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
