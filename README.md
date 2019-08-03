@@ -1,6 +1,6 @@
 # lg
 
-Project logger packaging
+Project logger packaging for [github.com/uber-go/zap](https://github.com/uber-go/zap)
 
 ## Getting Started
 
